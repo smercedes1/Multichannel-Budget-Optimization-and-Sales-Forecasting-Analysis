@@ -1,6 +1,6 @@
 Hello everyone, during my senior year at Rutgers Business School, I was tasked with leading a project as part of my Statistics for Business course. 
 
-The objective of the project was: To analyze and optimize marketing budget
+Objective: To analyze and optimize marketing budget
 allocations across multiple channels while accurately
 forecasting sales trends.
 
